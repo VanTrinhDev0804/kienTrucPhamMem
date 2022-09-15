@@ -1,0 +1,10 @@
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\bin\Debug\MSMQ_Receives.exe.config
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\obj\Debug\MSMQ_Receive.F_MessageReceive.resources
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\obj\Debug\MSMQ_Receives.Properties.Resources.resources
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\obj\Debug\MSMQ_Receives.csproj.GenerateResource.Cache
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\bin\Debug\MSMQ_Receives.exe
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\bin\Debug\MSMQ_Receives.pdb
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\bin\Debug\BusinessObject.dll
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\bin\Debug\BusinessObject.pdb
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\obj\Debug\MSMQ_Receives.exe
+T:\BuiPhucNguyen\MSMQ_Demo\MSMQ_Receives\obj\Debug\MSMQ_Receives.pdb
