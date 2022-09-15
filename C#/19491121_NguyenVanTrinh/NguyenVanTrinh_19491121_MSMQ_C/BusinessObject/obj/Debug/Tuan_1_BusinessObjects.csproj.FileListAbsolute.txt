@@ -1,4 +1,0 @@
-T:\KTPM\C#\19491121_NguyenVanTrinh\NguyenVanTrinh_19491121_MSMQ_C\BusinessObject\bin\Debug\BusinessObject.dll
-T:\KTPM\C#\19491121_NguyenVanTrinh\NguyenVanTrinh_19491121_MSMQ_C\BusinessObject\bin\Debug\BusinessObject.pdb
-T:\KTPM\C#\19491121_NguyenVanTrinh\NguyenVanTrinh_19491121_MSMQ_C\BusinessObject\obj\Debug\BusinessObject.dll
-T:\KTPM\C#\19491121_NguyenVanTrinh\NguyenVanTrinh_19491121_MSMQ_C\BusinessObject\obj\Debug\BusinessObject.pdb
